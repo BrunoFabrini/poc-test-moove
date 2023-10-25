@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC-WebAPI", "POC-WebAPI\POC-WebAPI.csproj", "{B4A2D172-070E-4F15-B4FE-0A49DD7B4CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A2D172-070E-4F15-B4FE-0A49DD7B4CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A2D172-070E-4F15-B4FE-0A49DD7B4CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A2D172-070E-4F15-B4FE-0A49DD7B4CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A2D172-070E-4F15-B4FE-0A49DD7B4CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7176B4-DF0F-433F-AF65-3C1D7AC68153}
+	EndGlobalSection
+EndGlobal
